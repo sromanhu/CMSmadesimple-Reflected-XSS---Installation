@@ -1,4 +1,4 @@
-# Cmsmadesimple CMS Stored XSS v2.2.18
+# Cmsmadesimple CMS Reflected XSS v2.2.18
 
 ## Author: (Sergio)
 
