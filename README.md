@@ -15,7 +15,8 @@ During the installation process we enter the XSS payload in any of the 3 fields 
 
 ### XSS Payload:
 
-```"' on focus="alert(1)" autofocus="
+```js
+"' on focus="alert(1)" autofocus="
 ```
 
 
