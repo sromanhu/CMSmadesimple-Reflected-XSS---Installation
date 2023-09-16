@@ -32,6 +32,8 @@ In the following image you can see the embedded code that executes the payload i
 
 ![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/7825fac8-bd75-40d7-aee4-530ebd9e3b5f)
 
+![image](https://github.com/sromanhu/Cmsmadesimple-CMS-Reflected-XSS/assets/87250597/7806fca2-d08c-4a0b-9b30-e1e7b092a195)
+
 ![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/8d580af3-2e89-4f17-a3a6-9096fec22b4c)
 
 
