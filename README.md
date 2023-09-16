@@ -3,6 +3,7 @@
 ## Author: (Sergio)
 
 **Description:** Multiple Cross-Site Scripting (XSS) vulnerabilities in installation of  cmsmadesimple v.2.2.18 allows a local attacker to execute arbitrary web scripts via a crafted payload injected into the Database Name, DataBase User or Database Port.
+
 **Attack Vectors:** A vulnerability in the installation sanitation in the Database name, user name and port allows JavaScript code to be injected.
 
 ---
