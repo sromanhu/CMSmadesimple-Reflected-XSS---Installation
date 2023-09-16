@@ -20,14 +20,24 @@ During the installation process we enter the XSS payload in any of the 3 fields 
 
 
 In the following image you can see the embedded code that executes the payload in the instalaltion process.
+![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/5858abd6-73ad-4e76-881f-7b4efe090c6e)
 
 
+![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/426542dc-cebc-4c5f-98a7-695837889d34)
+
+
+![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/fef08e57-214e-4357-b8f0-eec40b12fce5)
+
+
+![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/7825fac8-bd75-40d7-aee4-530ebd9e3b5f)
+
+![imagen](https://github.com/sromanhu/Cmsmadesimple-CMS-Stored-XSS/assets/87250597/8d580af3-2e89-4f17-a3a6-9096fec22b4c)
 
 
 
 </br>
 
 ### Additional Information:
-http://cszcms.com
-https://owasp.org/Top10/es/A03_2021-Injection/
-https://owasp.org/www-community/attacks/xss/
+
+[http://cszcms.com](http://www.cmsmadesimple.org/)
+
