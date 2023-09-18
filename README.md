@@ -42,5 +42,5 @@ In the following image you can see the embedded code that executes the payload i
 
 ### Additional Information:
 
-[http://cszcms.com](http://www.cmsmadesimple.org/)
+http://www.cmsmadesimple.org/
 
